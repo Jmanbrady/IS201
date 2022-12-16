@@ -42,8 +42,8 @@ body {
   img {
     width: 150px;
     position: absolute;
-    left: 850px;
-    top: 6px;
+    right: 5px;
+    top: 5px;
   }
 
   .backtotop {
